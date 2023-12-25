@@ -14,7 +14,7 @@ This is a Piano project made using HTML5, CSS3 & JS. This is for the beginners w
 
 
 ## 🚀 About Me
-I'm a coding enthusiast love python and web development
+I'm a coding enthusiast, love python and web development
 
 
 ## Feedback
